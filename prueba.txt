@@ -1,1 +1,2 @@
-hola mundo, estoy aprendiendo a usar git
+Hola mundo, estoy aprendiendo a usar git. 
+Archivo modificado 
